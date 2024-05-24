@@ -1,9 +1,9 @@
 ## Wifi_Hack
-### Hack WIfi Using Termux! (Requires Root)
+### Hack WIfi Using Termux! (Need Rooted Device )
 
 [![Screenshot-20240524-183227-Termux.png](https://i.postimg.cc/qMjPGGTw/Screenshot-20240524-183227-Termux.png)](https://postimg.cc/vcx2YfDx) 
 
-### Installation :
+### How to install :
 
 ```bash
 $ pkg update && pkg upgrade
