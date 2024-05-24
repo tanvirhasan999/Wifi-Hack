@@ -29,14 +29,15 @@ logo = ("""
 <=============Created by Tanvir=============>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 [+] OWNER   : TANVIR-HASAN 
-[+] Facebook : https://www.facebook.com/tanvirhasan444?mibextid=ZbWKwL
+[+] Facebook : https://www.facebook.com/tanvirhasan444
 [+] Github   : tanvirhasan999
 [+] Version  : 1.9
 [+] Tool     : Free  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 \033[38;5;46m [ Wifi-Hack {√} tanvirhasan999 ] \033[38;5;46m               
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-""")print(logo)
+""")
+print(logo)
 print('''
 \033[1;92mCreated By Tanvir Hasan
 Facebook:https://www.facebook.com/tanvirhasan444?mibextid=ZbWKwL
