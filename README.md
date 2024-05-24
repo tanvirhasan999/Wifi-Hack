@@ -17,6 +17,10 @@ $ cd Wifi-Hack
 $ chmod +x fück-wifi.py
 এরপর Wifi অফ করে
 $ sudo python fück-wifi.py -i wlan0 -K
+
+পরের বার Tool অপেন করতে 
+$ sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K
+
 আপনার Range এর ভেতর এর সব Wifi Show করবে।
 এগুলার ভেতর Green এর গুলা 99% হ্যাক হবে। আর White এর গুলোও হতে পারে চেষ্টা করে দেখবেন।আর যেগুলো Red গুলো হ্যাক হবেনা।
 ```
