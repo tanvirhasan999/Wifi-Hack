@@ -17,7 +17,7 @@ import statistics
 import csv
 from typing import Dict
 
-logo = ('''
+logo = ("""
 \033[38;5;46m███████╗██╗   ██╗ ██████╗██╗  ██╗     ██╗    ██╗██╗███████╗██╗
 \033[38;5;46m██╔════╝██║   ██║██╔════╝██║ ██╔╝     ██║    ██║██║██╔════╝██║
 \033[38;5;46m█████╗  ██║   ██║██║     █████╔╝█████╗██║ █╗ ██║██║█████╗  ██║
@@ -37,9 +37,9 @@ logo = ('''
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 \033[38;5;46m [ Wifi-Hack {√} tanvirhasan999 ] \033[38;5;46m               
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-''')
+""")
 print('''
-\033[1;92m Recoded By Tanvir Hasan
+\033[1;92mRecoded By Tanvir Hasan
 Facebook:https://www.facebook.com/tanvirhasan444?mibextid=ZbWKwL
 Telegram:https://t.me/tanvir2651
 One line Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
