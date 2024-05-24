@@ -26,22 +26,19 @@ logo = ("""
 \033[38;5;46m ╚═╝      ╚═════╝  ╚═════╝╚═╝  ╚═╝      ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝ 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<=============Created by Tanvir=============>
+<======== Created by Tanvir Hasan =========>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[+] OWNER   : TANVIR-HASAN 
-[+] Facebook : https://www.facebook.com/tanvirhasan444
-[+] Github   : tanvirhasan999
-[+] Version  : 1.9
-[+] Tool     : Free  
+[+] OWNER   : TANVIR HASAN 🗿
+[+] Facebook: https://www.facebook.com/tanvirhasan444
+[+] Github  : tanvirhasan999
+[+] Version : 1.0
+[+] Tool    : Paid 🗿
+[+] Telegram: https://t.me/tanvir2651
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-\033[38;5;46m [ Wifi-Hack {√} tanvirhasan999 ] \033[38;5;46m               
+\033[38;5;46m [ Wifi-Hack💀 {√} tanvirhasan999 ] \033[38;5;46m               
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """)
-print(logo)
-print('''
-\033[1;92mCreated By Tanvir Hasan
-Facebook:https://www.facebook.com/tanvirhasan444?mibextid=ZbWKwL
-Telegram:https://t.me/tanvir2651
+print(logo) print('''
 One line Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
 For Help Type:\npython Wifi-Hack/fück-wifi.py --help\033[0m
 ''')
