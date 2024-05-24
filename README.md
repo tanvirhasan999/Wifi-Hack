@@ -35,5 +35,3 @@ $ sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K
 `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -b 00:91:4C:C3:AC:28 -K`
 - Launch online WPS bruteforce with the specified first half of the PIN:
 - `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234`
-### Troubleshooting
-**"Device or resource busy (-16)" - Turn on Wifi and Then Turn off Wifi.**
