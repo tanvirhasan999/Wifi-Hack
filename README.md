@@ -1,7 +1,7 @@
 ## Wifi_Hack
 ### Hack WIfi Using Termux! (Requires Root)
 
-<p align="center"> <img src="[![Screenshot-20240524-183227-Termux.png](https://i.postimg.cc/qMjPGGTw/Screenshot-20240524-183227-Termux.png)](https://postimg.cc/vcx2YfDx)" /> </p>
+[![Screenshot-20240524-183227-Termux.png](https://i.postimg.cc/qMjPGGTw/Screenshot-20240524-183227-Termux.png)](https://postimg.cc/vcx2YfDx) 
 
 ### Installation :
 
