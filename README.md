@@ -6,30 +6,29 @@
 ### How to install :
 
 ```bash
-$ pkg update && pkg upgrade
+pkg update && pkg upgrade
 ```
 ```
-$ pkg install git python
+pkg install git python
 ```
 ```
-$ apt update && apt upgrade
+apt update && apt upgrade
 ```
 ```
-$ pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && termux-setup-storage
+pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && termux-setup-storage
 ```
 ```
-$ git clone https://github.com/tanvirhasan999/Wifi-Hack
+git clone https://github.com/tanvirhasan999/Wifi-Hack
 ```
 ```
-$ cd Wifi-Hack
+cd Wifi-Hack
 ```
 ```
-$ chmod +x fück-wifi.py
-
+chmod +x fück-wifi.py
 ```
+### Note: Now turn off Wifi 
 ```
-Note: Now turn off Wifi 
-```$ sudo python fück-wifi.py -i wlan0 -K
+sudo python fück-wifi.py -i wlan0 -K
 ```
 ### Note: আপনার Range এর ভেতর এর সব Wifi Show করবে।
 এগুলার ভেতর Green এর গুলা 99% হ্যাক হবে। আর White এর গুলোও হতে পারে চেষ্টা করে দেখবেন।আর যেগুলো Red গুলো হ্যাক হবেনা।
