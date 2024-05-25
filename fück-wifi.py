@@ -41,8 +41,8 @@ logo = ("""
 \033[38;5;46m [ Hack Wifi 💀 {√} and Fuck Love 🖕 ] \033[38;5;46m               
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 """)
-
-  os.system('clear')
+def clear():
+    os.system('clear')
 print(logo) 
 print('''
 Run tool agin Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
