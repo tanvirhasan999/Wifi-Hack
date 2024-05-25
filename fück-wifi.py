@@ -1210,7 +1210,7 @@ if __name__ == '__main__':
                     args.bssid = None
             else:
                 print("\nAborting…\nStay With\nTanvir\nHasan")
-print("Run tool agin? exit termux & type Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n")
+print("\nRun\ntool\nagin?\nexit\ntermux\n&\ntype\nCommand:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n")
              break
 
     if args.iface_down:
