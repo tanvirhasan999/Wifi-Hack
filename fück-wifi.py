@@ -1210,8 +1210,7 @@ if __name__ == '__main__':
                     args.bssid = None
             else:
                 print("\nAborting…\nStay\nWith\nTanvir\nHasan")
-             print("Run\ntool\nagin\nCommand:\nsudo\npython\nWifi-Hack/fück-wifi.py\n-i\nwlan0\n-K\n")   
-            break
+                break
 
     if args.iface_down:
         ifaceUp(args.interface, down=True)
