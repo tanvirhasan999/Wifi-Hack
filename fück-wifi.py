@@ -41,6 +41,7 @@ logo = ("""
 \033[38;5;46m [ Hack Wifi 💀 {√} and Fuck Love 🖕 ] \033[38;5;46m               
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 """)
+
   os.system('clear')
 print(logo) 
 print('''
@@ -1210,7 +1211,7 @@ if __name__ == '__main__':
             else:
                 print("\nAborting…\nStay With\nTanvir\nHasan")
  print('''
-Run tool agin Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
+Run tool agin? exit termux & type Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
 ''')               
              break
 
