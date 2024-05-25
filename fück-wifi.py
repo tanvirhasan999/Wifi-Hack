@@ -1211,7 +1211,8 @@ if __name__ == '__main__':
             else:
                 print("\nAborting…\nStay With\nTanvir\nHasan")
 print("\nRun\ntool\nagin?\nexit\ntermux\n&\ntype\nCommand:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n")
-             break
+
+break
 
     if args.iface_down:
         ifaceUp(args.interface, down=True)
