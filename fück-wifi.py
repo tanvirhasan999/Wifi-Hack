@@ -34,14 +34,16 @@ logo = ("""
 [+] OWNER   : TANVIR HASAN 
 [+] Facebook: https://www.facebook.com/tanvirhasan444
 [+] Github  : tanvirhasan999
-[+] Version : 1.0
+[+] Version : 2.0
 [+] Tool    : Paid 🤑
 [+] Telegram: https://t.me/tanvir2651
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 \033[38;5;46m [ Hack Wifi 💀 {√} and Fuck Love 🖕 ] \033[38;5;46m               
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 """)
-print(logo) 
+def meyexudi():
+  os.system('clear')
+ print(logo) 
 print('''
 Run tool agin Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
 Need Help? Type:\npython Wifi-Hack/fück-wifi.py --help\033[0m
