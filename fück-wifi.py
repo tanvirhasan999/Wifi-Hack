@@ -43,7 +43,7 @@ logo = ("""
 """)
 def meyexudi():
   os.system('clear')
- print(logo) 
+print(logo) 
 print('''
 Run tool agin Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
 Need Help? Type:\npython Wifi-Hack/fück-wifi.py --help\033[0m
