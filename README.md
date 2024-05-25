@@ -34,7 +34,7 @@ sudo python fück-wifi.py -i wlan0 -K
 এগুলার ভেতর Green এর গুলা 99% হ্যাক হবে। আর White এর গুলোও হতে পারে চেষ্টা করে দেখবেন।আর যেগুলো Red গুলো হ্যাক হবেনা।
 পরের বার Tool অপেন করতে 
 ```bash
-$ sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K 
+sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K
 ```
 
 #### Example : `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K`
