@@ -7,7 +7,10 @@
 
 ```bash
 $ pkg update && pkg upgrade
+```
+```
 $ pkg install git python
+```
 $ apt update && apt upgrade
 $ pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && termux-setup-storage
 $ git clone https://github.com/tanvirhasan999/Wifi-Hack
@@ -25,8 +28,7 @@ $ sudo python fück-wifi.py -i wlan0 -K
 $ sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K 
 ```
 
-#### Example : 
-`sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K`
+#### Example : `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K`
 
 #### Note: 
 **First turn off your Wifi.**
