@@ -25,7 +25,8 @@ $ sudo python fück-wifi.py -i wlan0 -K
 $ sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K 
 ```
 
-#### Example : `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K`
+#### Example : 
+`sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K`
 
 #### Note: 
 **First turn off your Wifi.**
