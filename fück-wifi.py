@@ -41,12 +41,11 @@ logo = ("""
 \033[38;5;46m [ Hack Wifi 💀 {√} and Fuck Love 🖕 ] \033[38;5;46m               
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 """)
-def meyexudi():
   os.system('clear')
 print(logo) 
 print('''
 Run tool agin Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
-Need Help? Type:\npython Wifi-Hack/fück-wifi.py --help\033[0m
+For help:\npython Wifi-Hack/fück-wifi.py --help\033[0m
 ''')
 class NetworkAddress:
     def __init__(self, mac):
@@ -1210,7 +1209,10 @@ if __name__ == '__main__':
                     args.bssid = None
             else:
                 print("\nAborting…\nStay With\nTanvir\nHasan")
-                break
+ print('''
+Run tool agin Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\n
+''')               
+             break
 
     if args.iface_down:
         ifaceUp(args.interface, down=True)
