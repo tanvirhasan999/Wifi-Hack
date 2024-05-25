@@ -17,7 +17,6 @@ import statistics
 import csv
 from typing import Dict
 
-clear():
 logo = ("""
 
  (                      )       (        )               
