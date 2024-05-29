@@ -6,6 +6,9 @@
 ### How to install :
 
 ```bash
+apt update && apt upgrade
+```
+```bash
 pkg update && pkg upgrade
 ```
 ```
@@ -13,9 +16,6 @@ pkg install git
 ```
 ```
 pkg install python
-```
-```bash
-apt update && apt upgrade
 ```
 ```bash
 pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && termux-setup-storage
