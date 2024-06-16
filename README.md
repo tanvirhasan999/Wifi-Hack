@@ -1,9 +1,10 @@
 ## Wifi-Hack 🗿
 ### Hack WIfi Using Termux! (Need Rooted Device )🧑‍💻
+### termux দিয়ে wifi হ্যা.ক করুন 
 
 [![Screenshot-20240524-183227-Termux.png](https://i.postimg.cc/qMjPGGTw/Screenshot-20240524-183227-Termux.png)](https://postimg.cc/vcx2YfDx) 
 
-### How to install :
+### How to install (কিভাবে ইন্সটল করবেন) :
 
 ```bash
 apt update && apt upgrade
@@ -29,13 +30,13 @@ cd Wifi-Hack
 ```
 chmod +x fück-wifi.py
 ```
-### Note📝 : Now turn off Wifi 
+### Note📝 : Now turn off Wifi (এখন wifi অফ করুন)
 ```
 sudo python fück-wifi.py -i wlan0 -K
 ```
-## Note📝: It will show all Wifi within your range. Among them, 99% of Green's will be hacked. And the White ones may also be tried. And the Red ones will not be hacked.
+## Note📝: It will show all Wifi within your range. Among them, 99% of Green's will be hacked. And the White ones may also be tried. And the Red ones will not be hacked. (আপনার Range এর ভেতর এর সব Wifi Show করবে। এগুলার ভেতর Green এর গুলা 99% হ্যাক হবে। আর White এর গুলোও হতে পারে চেষ্টা করে দেখবেন।আর যেগুলো Red গুলো হ্যাক হবেনা)
 
-## Enter this command to open Tool next time. 
+## Enter this command to open Tool next time. (পরের বার Tool অপেন করতে এই command টি দিন।)
 ```bash
 sudo python Wifi-Hack/fück-wifi.py -i wlan0 -K
 ```
