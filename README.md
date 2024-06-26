@@ -32,7 +32,7 @@ chmod +x fück-wifi.py
 ```
 ### Note📝 : Now turn off Wifi (এখন wifi অফ করুন)
 ```
-sudo python fück-wifi.py wlan0 -K
+sudo python fück-wifi.py -i wlan0 -K
 ```
 ## Note📝: It will show all Wifi within your range. Among them, 99% of Green's will be hacked. And the White ones may also be tried. And the Red ones will not be hacked. (আপনার Range এর ভেতর এর সব Wifi Show করবে। এগুলার ভেতর Green এর গুলা 99% হ্যাক হবে। আর White এর গুলোও হতে পারে চেষ্টা করে দেখবেন।আর যেগুলো Red গুলো হ্যাক হবেনা)
 
