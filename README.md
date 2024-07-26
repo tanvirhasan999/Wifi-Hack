@@ -21,17 +21,17 @@ pkg install python -y
 ```bash
 pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && termux-setup-storage
 ```
-```
+```bash
 git clone https://github.com/tanvirhasan999/Wifi-Hack
 ```
-```
+```bash
 cd Wifi-Hack
 ```
-```
+```bash
 chmod +x fück-wifi.py
 ```
 ### Note📝 : Now turn off Wifi (এখন wifi অফ করুন)
-```
+```bash
 sudo python fück-wifi.py -i wlan0 -K
 ```
 ## Note📝: It will show all Wifi within your range. Among them, 99% of Green's will be hacked. And the White ones may also be tried. And the Red ones will not be hacked. (আপনার Range এর ভেতর এর সব Wifi Show করবে। এগুলার ভেতর Green এর গুলা 99% হ্যাক হবে। আর White এর গুলোও হতে পারে চেষ্টা করে দেখবেন।আর যেগুলো Red গুলো হ্যাক হবেনা)
