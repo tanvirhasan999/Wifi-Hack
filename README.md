@@ -7,16 +7,16 @@
 ### How to install (কিভাবে ইন্সটল করবেন) :
 
 ```bash
-apt update && apt upgrade
+apt update && apt upgrade -y
 ```
 ```bash
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 ```
 ```
-pkg install git
+pkg install git -y
 ```
 ```
-pkg install python
+pkg install python -y
 ```
 ```bash
 pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw && termux-setup-storage
